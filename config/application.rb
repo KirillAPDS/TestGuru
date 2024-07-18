@@ -28,3 +28,4 @@ module TestGuru
     config.i18n.default_locale = :ru
   end
 end
+
